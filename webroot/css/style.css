@@ -1,0 +1,93 @@
+.navbar{
+  background-color: #101010;
+}
+
+.navbar-nav{
+  margin-left: 50px;
+}
+
+#logo{
+  width:30px;
+  margin-top: 35%;
+  margin-left: 200%;
+}
+
+#title a{
+  color:#FF4081!important;
+}
+
+#mylist a{
+  font-size: 13px;
+  color:#9d9d9d;
+}
+
+#logoblock{
+  line-height:10px;
+}
+
+.topimage{
+  margin:0 auto;
+}
+
+.footer{
+  background-color: #E5E5E5;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-top: 80px;
+}
+
+.caccount{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.alert{
+  background-color: pink;
+  border:1px solid red;
+  color: red;
+  width: 90%;
+}
+
+.product{
+  text-align: center;
+}
+
+.topimage{
+  margin-top: 40px;
+}
+
+.pimage{
+  border: 1px solid #F0F0F0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.075);
+  height: 600px;
+  width: 600px;
+}
+
+.addbtn{
+  background-color: #5cb85c;
+  color:white;
+}
+
+.price{
+  padding-bottom: 10px;
+}
+
+.addbtn{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.submit{
+  background-color: #337ab7;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.form-control {
+  width: 20%;
+}
+
+tbody, thead, tfoot, tr, th, td {
+    display: block;
+    border: 1px solid #F0F0F0;
+    width: 80px;
+}
